@@ -1,0 +1,52 @@
+10
+MTH001
+Lap trinh Toan AI
+25
+2
+2003
+MTH002
+Lap trinh Co Ban
+15
+12
+2020
+MTH003
+Dai So Tuyen Tinh
+15
+11
+2021
+CSC002
+Lap trinh Huong doi tuong
+25
+3
+2003
+CSC003
+Lap trinh Java
+25
+3
+2022
+CSC00005
+Triet hoc MacLeNin
+24
+01
+2003
+CSC00007
+Kinh te chinh tri
+24
+11
+2023
+CSC00011
+Kinh te dai cuong
+11
+11
+2019
+CSC00123
+NLP ngon ngu tu nhien
+11
+12
+2018
+CSC12123
+Nhap Mon Mang may tinh
+8
+8
+2018
+

@@ -1,0 +1,62 @@
+10
+291
+Nguyen Duc 1
+Binh Dinh
+26
+2
+2003
+292
+Nguyen Duc 2
+Hoa Lac
+25
+2
+2003
+293
+Nguyen Thi 3
+Phu Cat
+24
+01
+2002
+294
+Nguyen Duc 4
+Sai Gon
+20
+02
+2004
+295
+Nong Van 5
+Phu NHan
+25
+6
+2004
+296
+Ho Van 6
+Ha Noi
+24
+5
+2001
+297
+Cao My 7
+Da Nang
+25
+5
+2006
+298
+Dang Van 8
+Thang Kien
+26
+5
+1997
+299
+Vo Thi 9
+Cocacola
+15
+5
+1995
+300
+Bich Dang 10
+Pepsi
+25
+6
+2004
+
